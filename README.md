@@ -99,7 +99,8 @@ Pandas, Numpy
 Matplotlib, Seaborn
 Scikit-learn
 ```
-Author
+Author,
 
-Prathmesh Bunde
+Prathmesh Bunde.
+
 Stock Prediction Projects | ML Enthusiast | Python Developer
