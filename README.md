@@ -11,13 +11,12 @@ LSTM-STOCK-PREDICTION/
 ├── main.py
 ├── MicrosoftStock.csv
 ├── plots/
-│ ├── open_close_prices.png
-│ ├── volume_over_time.png
-│ ├── feature_correlation.png
-│ ├── price_over_time.png
-│ └── predictions_vs_actual.png
+│   ├── open_close_prices.png
+│   ├── volume_over_time.png
+│   ├── feature_correlation.png
+│   ├── price_over_time.png
+│   └── predictions_vs_actual.png
 └── requirements.txt
-
 
 ---
 
