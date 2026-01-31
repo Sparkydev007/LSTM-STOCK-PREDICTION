@@ -6,7 +6,7 @@ It is built with **Python**, **TensorFlow/Keras**, and data visualization with *
 ---
 
 ## Project Structure
-```text
+
 LSTM-STOCK-PREDICTION/
 ├── main.py
 ├── MicrosoftStock.csv
@@ -17,6 +17,8 @@ LSTM-STOCK-PREDICTION/
 │   ├── price_over_time.png
 │   └── predictions_vs_actual.png
 └── requirements.txt
+
+
 ---
 
 ## How it works
