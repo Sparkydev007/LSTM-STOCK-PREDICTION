@@ -90,7 +90,7 @@ pip install -r requirements.txt
 python main.py
 
 ---
-
+```
 Tech Stack
 
 Python 3.x
@@ -98,7 +98,7 @@ TensorFlow / Keras
 Pandas, Numpy
 Matplotlib, Seaborn
 Scikit-learn
-
+```
 Author
 
 Prathmesh Bunde
