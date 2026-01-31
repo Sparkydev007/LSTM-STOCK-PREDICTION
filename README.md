@@ -6,8 +6,8 @@ It is built with **Python**, **TensorFlow/Keras**, and data visualization with *
 ---
 
 ## Project Structure
-
- LSTM-STOCK-PREDICTION/
+---
+LSTM-STOCK-PREDICTION/
 ├── main.py
 ├── MicrosoftStock.csv
 ├── plots/
