@@ -77,7 +77,7 @@ LSTM-STOCK-PREDICTION/
 1. Clone this repo:
 
 bash
-git clone <your_repo_url>
+git clone https://github.com/Sparkydev007/LSTM-STOCK-PREDICTION.git
 cd LSTM-STOCK-PREDICTION
 
 
